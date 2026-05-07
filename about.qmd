@@ -1,10 +1,12 @@
 ---
-title: "About the Project"
+title: "Context of the Research"
 format: html
 editor: visual
 ---
 
-## Background
+![](images/dhe-profile.png){width="20%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
+
+## Digital Health Inequality
 
 Digital health interventions --- including apps, wearables, online programmes, and telehealth services --- offer significant potential to improve health outcomes and extend the reach of healthcare. Yet the benefits of these technologies are not equally distributed. Individuals from lower socioeconomic groups are consistently less likely to engage with and benefit from digital health tools, a pattern that risks deepening existing health inequalities rather than reducing them.
 
@@ -30,6 +32,4 @@ The project comprises three interconnected studies:
 -   **A qualitative study** involving semi-structured interviews to explore enablement from the perspective of individuals with lived experience of digital health inequalities
 -   **A Delphi and validation study** to establish content validity of the DHES and examine its psychometric properties in a UK adult sample
 
-## Institutional Home
 
-The DHE project is based in the **Centre for Motivation and Health Behaviour Change** within the Department of Health at the University of Bath. The research is supervised by Dr Max Western, Dr Roberta Bernardi (University of Bristol), and Professor Martyn Standage.

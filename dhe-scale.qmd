@@ -1,7 +1,7 @@
 ---
 title: "The DHE Scale"
 format: html
-editor: visual
+editor: source
 ---
 
 ## Overview
@@ -16,18 +16,24 @@ The scale is designed for use with adult populations in research and clinical co
 
 The DHES was developed through a rigorous mixed-methods process grounded in established frameworks for scale development. Development involved:
 
+::: {.callout-tip appearance="minimal" icon=false}
+**Current stage:** Full scale testing with UK adult sample
+:::
+
 | Date | Description | Status | Ethics Reference |
-|-------|--------------------------------|------|------|
-| May 2024 | A **Scoping review** of mechanisms explaining socioeconomic disparities in digital health outcomes | COMPLETE | — |
-| Jun 2024 | A **Literature review** of existing digital health scales to identify gaps and inform item development | Complete | — |
-| Sep 2024 | **Proto-model development** from existing theory | Complete | — |
-| Nov 2024 | **Semi-structured interviews** with users on digital health experiences | Complete | |
-| Jan 2025 | **Delphi study** with subject matter experts to establish content validity | Complete | |
-| Mar 2025 | **Cognitive interviews** with users on the draft scale | Complete | |
-| Apr 2025 | **Pilot study** of the draft DHES | Complete | |
-| May 2025 | **Full scale testing** with UK adult sample | Ongoing | |
-| TBC | **Psychometric evaluation** of structural validity and measurement properties | Planned | — |
-| TBC | **Validation study** examining convergent, divergent, and criterion validity | Planned | — |
+|-------|-----------------------------|--------|------|
+| May 2024 | A **Scoping review** of mechanisms explaining socioeconomic disparities in digital health outcomes | 🟢 Complete | N/A |
+| Jun 2024 | A **Literature review** of existing digital health scales to identify gaps and inform item development | 🟢 Complete | 1447 |
+| Sep 2024 | **Proto-model development** from existing theory | 🟢 Complete | 1447 |
+| Nov 2024 | **Semi-structured interviews** with users on digital health experiences | 🟢 Complete | 1447 |
+| Jan 2025 | **Delphi study** with subject matter experts to establish content validity | 🟢 Complete | 1447 |
+| Mar 2025 | **Cognitive interviews** with users on the draft scale | 🟢 Complete | 6276 |
+| Apr 2025 | **Pilot study** of the draft DHES | 🟢 Complete | 6276 |
+| **May 2025** | **> Full scale testing with UK adult sample <** |🔵 **Underway**| 6276 |
+| TBC 2026 | **Psychometric evaluation** of structural validity and measurement properties | 🟡 Planned | — |
+| TBC 2027 | **Validation study** examining convergent, divergent, and criterion validity | 🟡 Planned | — |
+
+: **Table 1** Project Timeline
 
 ## Current Status
 

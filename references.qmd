@@ -1,0 +1,38 @@
+---
+title: "References"
+editor: source
+---
+
+This page lists the key references underpinning the theoretical and empirical 
+foundations of the DHE project.
+
+## Digital Health and Inequalities
+
+Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A 
+scoping review of the mechanisms influencing socioeconomic disparities in outcomes 
+of digital interventions for weight‐related behaviors. *Obesity Reviews*, e70121. 
+<https://doi.org/10.1111/obr.70121>
+
+## Digital Divide Theory
+
+van Dijk, J. A. G. M. (2020). *The digital divide*. Polity Press.
+
+## Scale Development and Psychometrics
+
+Mokkink, L. B., Terwee, C. B., Patrick, D. L., Alonso, J., Stratford, P. W., 
+Knol, D. L., Bouter, L. M., & de Vet, H. C. W. (2010). The COSMIN checklist for 
+assessing the methodological quality of studies on measurement properties of 
+health status measurement instruments: An international Delphi study. *Quality of 
+Life Research*, *19*(4), 539–549. <https://doi.org/10.1007/s11136-010-9606-8>
+
+## Theoretical Foundations
+
+Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
+
+Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human 
+needs and the self-determination of behavior. *Psychological Inquiry*, *11*(4), 
+227–268. <https://doi.org/10.1207/S15327965PLI1104_01>
+
+Norman, C. D., & Skinner, H. A. (2006). eHealth literacy: Essential skills for 
+consumer health in a networked world. *Journal of Medical Internet Research*, 
+*8*(2), e9. <https://doi.org/10.2196/jmir.8.2.e9>

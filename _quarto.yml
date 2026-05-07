@@ -3,22 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Digital Health Enablement"
+  title: "DHE"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Context
       - href: dhe-model.qmd
-        text: DHE Model
+        text: Theory
       - href: dhe-scale.qmd
-        text: DHES Scale
+        text: Measurement
       - href: publications.qmd
-        text: Publications
-      - href: contacts.qmd
-        text: Contacts
-
+        text: Research Outputs
+      - href: references.qmd
+        text: References
+    
 format:
   html:
     theme: flatly

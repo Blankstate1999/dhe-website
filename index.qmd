@@ -1,24 +1,46 @@
 ---
-title: "The DHE Project"
+title: "Digital Health Enablement"
 subtitle: "Understanding who benefits most from digital health - and why"
 format: html
-editor: visual
+editor: source
 ---
 
 ![](images/banner.jpg){width="100%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
 
-## The Challenge
+### The Digital Health Divide
 
-Digital health interventions offer enormous potential to improve health outcomes and extend the reach of healthcare services. Yet their benefits are not equally distributed. 
+Digital health technologies such as health apps and wearables offer enormous potential to improve health and extend the reach of healthcare. Yet their benefits are unequally distributed. 
 
-Factors including **digital skills**, **health literacy**, **self-efficacy**, **socio-digital norms** and **trust** shape whether individuals can meaningfully engage with digital health tools --- and these factors cluster in ways that deepen existing health inequalities.
+Factors including **digital skills**, **health literacy**, **self-efficacy**, **socio-digital norms** and **trust** shape whether individuals can meaningfully engage with, and benefit from, digital health --- and these factors cluster in ways that deepen existing health inequalities.
+
+Find out more about digital health inequality [here](about.qmd).
+
+### The DHE Project
+
+::: {.callout-note appearance="minimal" icon=false}
+## What is Digital Health Enablement (DHE)?
+
+**DHE** is the constellation of individual-level factors 
+that determine whether a person is positioned to meaningfully engage with and 
+benefit from digital health interventions. It encompasses the skills, knowledge, 
+motivation, and social context that shape an individual's capacity to use digital 
+health tools effectively.
+:::
 
 The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, developing and validating a new psychometric instrument --- the **Digital Health Enablement Scale (DHES)** --- designed to measure individual-level enablement for digital health engagement.
 
-## Find out more
+The DHE project is based in the [**Centre for Motivation and Health Behaviour Change**](https://www.bath.ac.uk/research-centres/centre-for-motivation-and-behaviour-change/) within the Department of Health at the University of Bath. The research is supervised by **Dr Max Western**, **Dr Roberta Bernardi** (University of Bristol), and **Professor Martyn Standage**.
 
--   [About the project](about.qmd)
--   [The DHE Construct](dhe-model.qmd)
--   [The DHES Scale](dhe-scale.qmd)
--   [Publications & Outputs](publications.qmd)
+### Explore the project
+
+-   [The Project](about.qmd)
+-   [Theory](dhe-model.qmd)
+-   [Measurement](dhe-scale.qmd)
+-   [Publications](publications.qmd)
 -   [The Team](contacts.qmd)
+
+---
+
+::: {style="text-align: right;"}
+![](images/bath-logo.png){width=180px}
+:::
