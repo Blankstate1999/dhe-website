@@ -1,26 +1,45 @@
 ---
-title: "DHE Scale"
+title: "The DHE Scale"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Overview
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+The Digital Health Enablement Scale (DHES) is a self-report psychometric 
+instrument designed to measure an individual's capacity to engage with and benefit 
+from digital health interventions. It operationalises the seven domains of the 
+[DHE model](dhe-model.qmd), capturing the cognitive, motivational, social, and 
+behavioural factors that underpin meaningful digital health engagement.
 
-## Running Code
+The scale is designed for use with adult populations in research and clinical 
+contexts, with particular relevance to settings where digital health inequalities 
+are a concern — including primary care, public health, and weight-related behaviour 
+change programmes.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Development
 
-```{r}
-1 + 1
-```
+The DHES was developed through a rigorous mixed-methods process grounded in 
+established frameworks for scale development, including COSMIN standards for 
+measurement instrument development. Development involved:
 
-You can add options to executable code like this
+- A systematic scoping review establishing the theoretical and empirical basis 
+for the seven-domain DHE model
+- Semi-structured interviews (n = 9) with adults from across the socioeconomic 
+spectrum to establish content relevance and comprehensiveness
+- A two-round Delphi study with an expert panel to establish content validity
 
-```{r}
-#| echo: false
-2 * 2
-```
+## Current Status
 
-The `echo: false` option disables the printing of code (only output is displayed).
+The DHES is currently undergoing peer review. A full validation study examining 
+the scale's structural validity, reliability, and convergent validity in a UK 
+adult sample is ongoing.
+
+The scale is not yet publicly available. Researchers interested in the DHES — 
+including those wishing to collaborate or discuss potential applications — are 
+warmly encouraged to [get in touch](contact.qmd).
+
+## Availability
+
+Full details of the scale, including items, scoring instructions, and psychometric 
+properties, will be made available on this page following publication.

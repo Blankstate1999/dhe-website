@@ -1,26 +1,47 @@
 ---
-title: "About"
+title: "About the Project"
 format: html
 editor: visual
 ---
 
-## Quarto
+---
+title: "About the Project"
+---
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Background
 
-## Running Code
+Digital health interventions — including apps, wearables, online programmes, and 
+telehealth services — offer significant potential to improve health outcomes and 
+extend the reach of healthcare. Yet the benefits of these technologies are not 
+equally distributed. Individuals from lower socioeconomic groups are consistently 
+less likely to engage with and benefit from digital health tools, a pattern that 
+risks deepening existing health inequalities rather than reducing them.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Understanding *why* these disparities exist requires moving beyond access alone. 
+Factors such as digital skills, health literacy, self-efficacy, trust, and social 
+norms all shape whether an individual can meaningfully engage with digital health — 
+yet no validated instrument existed to measure these factors in combination.
 
-```{r}
-1 + 1
-```
+## The Project
 
-You can add options to executable code like this 
+The Digital Health Enablement (DHE) project is a programme of doctoral research 
+based at the **University of Bath**, addressing this gap through the development 
+and validation of a new psychometric instrument: the **Digital Health Enablement 
+Scale (DHES)**.
 
-```{r}
-#| echo: false
-2 * 2
-```
+The project comprises three interconnected studies:
 
-The `echo: false` option disables the printing of code (only output is displayed).
+- **A scoping review** of the mechanisms underlying socioeconomic disparities in 
+digital health outcomes, establishing the evidence base for the DHE model
+- **A qualitative study** involving semi-structured interviews to explore 
+enablement from the perspective of individuals with lived experience of digital 
+health inequalities
+- **A Delphi and validation study** to establish content validity of the DHES and 
+examine its psychometric properties in a UK adult sample
+
+## Institutional Home
+
+The DHE project is based in the **Centre for Motivation and Health Behaviour 
+Change** within the Department of Health at the University of Bath. The research 
+is supervised by Dr Max Western, Dr Roberta Bernardi (University of Bristol), and 
+Professor Martyn Standage.

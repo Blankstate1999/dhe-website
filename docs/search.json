@@ -2,127 +2,127 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the Project",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Digital health interventions — including apps, wearables, online programmes, and telehealth services — offer significant potential to improve health outcomes and extend the reach of healthcare. Yet the benefits of these technologies are not equally distributed. Individuals from lower socioeconomic groups are consistently less likely to engage with and benefit from digital health tools, a pattern that risks deepening existing health inequalities rather than reducing them.\nUnderstanding why these disparities exist requires moving beyond access alone. Factors such as digital skills, health literacy, self-efficacy, trust, and social norms all shape whether an individual can meaningfully engage with digital health — yet no validated instrument existed to measure these factors in combination."
   },
   {
-    "objectID": "about.html#quarto",
-    "href": "about.html#quarto",
-    "title": "About",
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About the Project",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Digital health interventions — including apps, wearables, online programmes, and telehealth services — offer significant potential to improve health outcomes and extend the reach of healthcare. Yet the benefits of these technologies are not equally distributed. Individuals from lower socioeconomic groups are consistently less likely to engage with and benefit from digital health tools, a pattern that risks deepening existing health inequalities rather than reducing them.\nUnderstanding why these disparities exist requires moving beyond access alone. Factors such as digital skills, health literacy, self-efficacy, trust, and social norms all shape whether an individual can meaningfully engage with digital health — yet no validated instrument existed to measure these factors in combination."
   },
   {
-    "objectID": "about.html#running-code",
-    "href": "about.html#running-code",
-    "title": "About",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "about.html#the-project",
+    "href": "about.html#the-project",
+    "title": "About the Project",
+    "section": "The Project",
+    "text": "The Project\nThe Digital Health Enablement (DHE) project is a programme of doctoral research based at the University of Bath, addressing this gap through the development and validation of a new psychometric instrument: the Digital Health Enablement Scale (DHES).\nThe project comprises three interconnected studies:\n\nA scoping review of the mechanisms underlying socioeconomic disparities in digital health outcomes, establishing the evidence base for the DHE model\nA qualitative study involving semi-structured interviews to explore enablement from the perspective of individuals with lived experience of digital health inequalities\nA Delphi and validation study to establish content validity of the DHES and examine its psychometric properties in a UK adult sample"
+  },
+  {
+    "objectID": "about.html#institutional-home",
+    "href": "about.html#institutional-home",
+    "title": "About the Project",
+    "section": "Institutional Home",
+    "text": "Institutional Home\nThe DHE project is based in the Centre for Motivation and Health Behaviour Change within the Department of Health at the University of Bath. The research is supervised by Dr Max Western, Dr Roberta Bernardi (University of Bristol), and Professor Martyn Standage."
   },
   {
     "objectID": "contacts.html",
     "href": "contacts.html",
     "title": "Contacts",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "We welcome enquiries from researchers, clinicians, and other professionals interested in the DHE project, the DHES scale, or potential collaboration.\nLee Mercer Doctoral Researcher, Department of Health University of Bath\nDr Max Western (Corresponding author) Centre for Motivation and Health Behaviour Change University of Bath"
   },
   {
-    "objectID": "contacts.html#quarto",
-    "href": "contacts.html#quarto",
+    "objectID": "contacts.html#get-in-touch",
+    "href": "contacts.html#get-in-touch",
     "title": "Contacts",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "We welcome enquiries from researchers, clinicians, and other professionals interested in the DHE project, the DHES scale, or potential collaboration.\nLee Mercer Doctoral Researcher, Department of Health University of Bath\nDr Max Western (Corresponding author) Centre for Motivation and Health Behaviour Change University of Bath"
   },
   {
-    "objectID": "contacts.html#running-code",
-    "href": "contacts.html#running-code",
+    "objectID": "contacts.html#collaborations-and-scale-enquiries",
+    "href": "contacts.html#collaborations-and-scale-enquiries",
     "title": "Contacts",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "section": "Collaborations and Scale Enquiries",
+    "text": "Collaborations and Scale Enquiries\nIf you are interested in using the DHES in your research, discussing collaboration, or would like to be notified when the scale becomes publicly available, please get in touch via email."
+  },
+  {
+    "objectID": "contacts.html#stay-updated",
+    "href": "contacts.html#stay-updated",
+    "title": "Contacts",
+    "section": "Stay Updated",
+    "text": "Stay Updated\nThe best way to stay informed about the progress of the DHE project is to bookmark this site, which will be updated as new outputs become available."
   },
   {
     "objectID": "dhe-model.html",
     "href": "dhe-model.html",
-    "title": "Model",
+    "title": "The DHE Model",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "dhe-model.html#quarto",
-    "href": "dhe-model.html#quarto",
-    "title": "Model",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "dhe-model.html#running-code",
-    "href": "dhe-model.html#running-code",
-    "title": "Model",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "The Digital Health Enablement (DHE) model proposes that an individual’s capacity to benefit from digital health interventions is shaped by seven inter-related domains. These domains capture the cognitive, motivational, social, and behavioural factors that determine whether a person can meaningfully engage with digital health tools.\nThe model situates these domains within a broader context of structural drivers — economic, social, cultural, and personal factors — that shape enablement upstream. Together, greater enablement across these domains is theorised to predict improved uptake, engagement, and effectiveness of digital health interventions.\n\n\n\nThe Digital Health Enablement Model (Mercer, et al., 2026)"
   },
   {
     "objectID": "dhe-scale.html",
     "href": "dhe-scale.html",
-    "title": "DHE Scale",
+    "title": "The DHE Scale",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual’s capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the DHE model, capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.\nThe scale is designed for use with adult populations in research and clinical contexts, with particular relevance to settings where digital health inequalities are a concern — including primary care, public health, and weight-related behaviour change programmes."
   },
   {
-    "objectID": "dhe-scale.html#quarto",
-    "href": "dhe-scale.html#quarto",
-    "title": "DHE Scale",
+    "objectID": "dhe-scale.html#overview",
+    "href": "dhe-scale.html#overview",
+    "title": "The DHE Scale",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual’s capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the DHE model, capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.\nThe scale is designed for use with adult populations in research and clinical contexts, with particular relevance to settings where digital health inequalities are a concern — including primary care, public health, and weight-related behaviour change programmes."
   },
   {
-    "objectID": "dhe-scale.html#running-code",
-    "href": "dhe-scale.html#running-code",
-    "title": "DHE Scale",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "dhe-scale.html#development",
+    "href": "dhe-scale.html#development",
+    "title": "The DHE Scale",
+    "section": "Development",
+    "text": "Development\nThe DHES was developed through a rigorous mixed-methods process grounded in established frameworks for scale development, including COSMIN standards for measurement instrument development. Development involved:\n\nA systematic scoping review establishing the theoretical and empirical basis for the seven-domain DHE model\nSemi-structured interviews (n = 9) with adults from across the socioeconomic spectrum to establish content relevance and comprehensiveness\nA two-round Delphi study with an expert panel to establish content validity"
+  },
+  {
+    "objectID": "dhe-scale.html#current-status",
+    "href": "dhe-scale.html#current-status",
+    "title": "The DHE Scale",
+    "section": "Current Status",
+    "text": "Current Status\nThe DHES is currently undergoing peer review. A full validation study examining the scale’s structural validity, reliability, and convergent validity in a UK adult sample is ongoing.\nThe scale is not yet publicly available. Researchers interested in the DHES — including those wishing to collaborate or discuss potential applications — are warmly encouraged to get in touch."
+  },
+  {
+    "objectID": "dhe-scale.html#availability",
+    "href": "dhe-scale.html#availability",
+    "title": "The DHE Scale",
+    "section": "Availability",
+    "text": "Availability\nFull details of the scale, including items, scoring instructions, and psychometric properties, will be made available on this page following publication."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Index",
+    "title": "The DHE Project",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Digital health interventions offer enormous potential to improve health outcomes and extend the reach of healthcare services. Yet their benefits are not equally distributed. Factors including digital skills, health literacy, self-efficacy, and trust shape whether individuals can meaningfully engage with digital health tools — and these factors cluster in ways that deepen existing health inequalities.\nThe Digital Health Enablement (DHE) project is a programme of doctoral research based at the University of Bath, developing and validating a new psychometric instrument — the Digital Health Enablement Scale (DHES) — designed to measure individual-level enablement for digital health engagement."
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Index",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Index",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "index.html#find-out-more",
+    "href": "index.html#find-out-more",
+    "title": "The DHE Project",
+    "section": "Find out more",
+    "text": "Find out more\n\nAbout the project\nThe DHE Construct\nThe DHES Scale\nPublications & Outputs\nThe Team"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Outputs",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\n\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
   },
   {
-    "objectID": "publications.html#quarto",
-    "href": "publications.html#quarto",
-    "title": "Publications",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications & Outputs",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "publications.html#running-code",
-    "href": "publications.html#running-code",
-    "title": "Publications",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\n\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
   }
 ]

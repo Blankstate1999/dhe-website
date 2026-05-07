@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: About
       - href: dhe-model.qmd
-        text: DHE Construct
+        text: DHE Model
       - href: dhe-scale.qmd
         text: DHES Scale
       - href: publications.qmd

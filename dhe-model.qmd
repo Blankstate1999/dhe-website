@@ -4,23 +4,19 @@ format: html
 editor: visual
 ---
 
-## Quarto
+---
+title: "The DHE Model"
+---
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+The Digital Health Enablement (DHE) model proposes that an individual's capacity 
+to benefit from digital health interventions is shaped by seven inter-related 
+domains. These domains capture the cognitive, motivational, social, and 
+behavioural factors that determine whether a person can meaningfully engage with 
+digital health tools.
 
-## Running Code
+The model situates these domains within a broader context of structural drivers — 
+economic, social, cultural, and personal factors — that shape enablement upstream. 
+Together, greater enablement across these domains is theorised to predict improved 
+uptake, engagement, and effectiveness of digital health interventions.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+![The Digital Health Enablement Model (Mercer, et al., 2026)](images/dhe_model.png){width=100% fig-alt="A hub and spoke diagram showing the seven domains of the DHE model surrounding a central Digital Health Enablement node, with structural drivers on the left and outcomes on the right."}

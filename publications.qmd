@@ -1,26 +1,18 @@
 ---
-title: "Publications"
+title: "Publications & Outputs"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Journal Articles
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A 
+scoping review of the mechanisms influencing socioeconomic disparities in outcomes 
+of digital interventions for weight‐related behaviors. *Obesity Reviews*, e70121. 
+<https://doi.org/10.1111/obr.70121>
 
-## Running Code
+---
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+Mercer, L. C., Bernardi, R., Standage, M., & Western, M. (*under review*). 
+Development and content validation of the Digital Health Enablement Scale (DHES): 
+A mixed-methods study. *PLOS Digital Health*.

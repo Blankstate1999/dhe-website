@@ -4,23 +4,27 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## Get in Touch
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+We welcome enquiries from researchers, clinicians, and other professionals 
+interested in the DHE project, the DHES scale, or potential collaboration.
 
-## Running Code
+**Lee Mercer**
+Doctoral Researcher
+Centre for Motivation and Health Behaviour Change
+Department of Health, University of Bath
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+**Dr Max Western** *(Corresponding author)*
+Centre for Motivation and Health Behaviour Change
+University of Bath
 
-```{r}
-1 + 1
-```
+## Collaborations and Scale Enquiries
 
-You can add options to executable code like this
+If you are interested in using the DHES in your research, discussing 
+collaboration, or would like to be notified when the scale becomes publicly 
+available, please get in touch via email.
 
-```{r}
-#| echo: false
-2 * 2
-```
+## Stay Updated
 
-The `echo: false` option disables the printing of code (only output is displayed).
+The best way to stay informed about the progress of the DHE project is to 
+bookmark this site, which will be updated as new outputs become available.

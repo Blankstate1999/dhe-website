@@ -1,26 +1,20 @@
 ---
-title: "Index"
+title: "The DHE Project"
+subtitle: "Understanding who benefits most from digital health - and why"
 format: html
 editor: visual
 ---
 
-## Quarto
+![](images/banner.jpg){width="100%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Digital health interventions offer enormous potential to improve health outcomes and extend the reach of healthcare services. Yet their benefits are not equally distributed. Factors including digital skills, health literacy, self-efficacy, and trust shape whether individuals can meaningfully engage with digital health tools --- and these factors cluster in ways that deepen existing health inequalities.
 
-## Running Code
+The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, developing and validating a new psychometric instrument --- the **Digital Health Enablement Scale (DHES)** --- designed to measure individual-level enablement for digital health engagement.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Find out more
 
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+-   [About the project](about.qmd)
+-   [The DHE Construct](dhe-model.qmd)
+-   [The DHES Scale](dhe-scale.qmd)
+-   [Publications & Outputs](publications.qmd)
+-   [The Team](contacts.qmd)
