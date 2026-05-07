@@ -6,40 +6,35 @@ editor: visual
 
 ## Overview
 
-The Digital Health Enablement Scale (DHES) is a self-report psychometric 
-instrument designed to measure an individual's capacity to engage with and benefit 
-from digital health interventions. It operationalises the seven domains of the 
-[DHE model](dhe-model.qmd), capturing the cognitive, motivational, social, and 
-behavioural factors that underpin meaningful digital health engagement.
+The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual's capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the [DHE model](dhe-model.qmd), capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.
 
-The scale is designed for use with adult populations in research and clinical 
-contexts, with particular relevance to settings where digital health inequalities 
-are a concern — including primary care, public health, and weight-related behaviour 
-change programmes.
+![**Figure 2** Stages of DHES development (adapted from Boateng et al., 2018).](images/scale_stages.png){width=80%}
+
+The scale is designed for use with adult populations in research and clinical contexts, with particular relevance to settings where digital health inequalities are a concern --- including primary care, public health, and weight-related behaviour change programmes.
 
 ## Development
 
-The DHES was developed through a rigorous mixed-methods process grounded in 
-established frameworks for scale development, including COSMIN standards for 
-measurement instrument development. Development involved:
+The DHES was developed through a rigorous mixed-methods process grounded in established frameworks for scale development. Development involved:
 
-- A systematic scoping review establishing the theoretical and empirical basis 
-for the seven-domain DHE model
-- Semi-structured interviews (n = 9) with adults from across the socioeconomic 
-spectrum to establish content relevance and comprehensiveness
-- A two-round Delphi study with an expert panel to establish content validity
+| Date | Description | Status | Ethics Reference |
+|-------|--------------------------------|------|------|
+| May 2024 | A **Scoping review** of mechanisms explaining socioeconomic disparities in digital health outcomes | COMPLETE | — |
+| Jun 2024 | A **Literature review** of existing digital health scales to identify gaps and inform item development | Complete | — |
+| Sep 2024 | **Proto-model development** from existing theory | Complete | — |
+| Nov 2024 | **Semi-structured interviews** with users on digital health experiences | Complete | |
+| Jan 2025 | **Delphi study** with subject matter experts to establish content validity | Complete | |
+| Mar 2025 | **Cognitive interviews** with users on the draft scale | Complete | |
+| Apr 2025 | **Pilot study** of the draft DHES | Complete | |
+| May 2025 | **Full scale testing** with UK adult sample | Ongoing | |
+| TBC | **Psychometric evaluation** of structural validity and measurement properties | Planned | — |
+| TBC | **Validation study** examining convergent, divergent, and criterion validity | Planned | — |
 
 ## Current Status
 
-The DHES is currently undergoing peer review. A full validation study examining 
-the scale's structural validity, reliability, and convergent validity in a UK 
-adult sample is ongoing.
+The DHES is currently undergoing peer review. A full validation study examining the scale's structural validity, reliability, and convergent validity in a UK adult sample is ongoing.
 
-The scale is not yet publicly available. Researchers interested in the DHES — 
-including those wishing to collaborate or discuss potential applications — are 
-warmly encouraged to [get in touch](contact.qmd).
+The scale is not yet publicly available. Researchers interested in the DHES --- including those wishing to collaborate or discuss potential applications --- are warmly encouraged to [get in touch](contacts.qmd).
 
 ## Availability
 
-Full details of the scale, including items, scoring instructions, and psychometric 
-properties, will be made available on this page following publication.
+Full details of the scale, including items, scoring instructions, and psychometric properties, will be made available on this page following publication.

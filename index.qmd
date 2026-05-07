@@ -7,7 +7,11 @@ editor: visual
 
 ![](images/banner.jpg){width="100%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
 
-Digital health interventions offer enormous potential to improve health outcomes and extend the reach of healthcare services. Yet their benefits are not equally distributed. Factors including digital skills, health literacy, self-efficacy, and trust shape whether individuals can meaningfully engage with digital health tools --- and these factors cluster in ways that deepen existing health inequalities.
+## The Challenge
+
+Digital health interventions offer enormous potential to improve health outcomes and extend the reach of healthcare services. Yet their benefits are not equally distributed. 
+
+Factors including **digital skills**, **health literacy**, **self-efficacy**, **socio-digital norms** and **trust** shape whether individuals can meaningfully engage with digital health tools --- and these factors cluster in ways that deepen existing health inequalities.
 
 The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, developing and validating a new psychometric instrument --- the **Digital Health Enablement Scale (DHES)** --- designed to measure individual-level enablement for digital health engagement.
 
