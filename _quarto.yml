@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Digital Health Enablement"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: dhe-model.qmd
+        text: DHE Construct
+      - href: dhe-scale.qmd
+        text: DHES Scale
+      - href: publications.qmd
+        text: Publications
+      - href: contacts.qmd
+        text: Contacts
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
