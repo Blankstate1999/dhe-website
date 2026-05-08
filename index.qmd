@@ -20,11 +20,7 @@ Find out more about digital health inequality [here](about.qmd).
 ::: {.callout-note appearance="minimal" icon=false}
 ## What is Digital Health Enablement (DHE)?
 
-**DHE** is the constellation of individual-level factors 
-that determine whether a person is positioned to meaningfully engage with and 
-benefit from digital health interventions. It encompasses the skills, knowledge, 
-motivation, and social context that shape an individual's capacity to use digital 
-health tools effectively.
+An individual’s readiness and capability to use, engage with, and benefit from digital technologies for the purpose of maintaining health, preventing ill health, or in the management of health conditions.
 :::
 
 The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, developing and validating a new psychometric instrument --- the **Digital Health Enablement Scale (DHES)** --- designed to measure individual-level enablement for digital health engagement.
