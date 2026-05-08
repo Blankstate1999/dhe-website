@@ -14,8 +14,6 @@ website:
         text: Theory
       - href: dhe-scale.qmd
         text: Measurement
-      - href: publications.qmd
-        text: Research Outputs
       - href: references.qmd
         text: References
     

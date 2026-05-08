@@ -1,12 +1,12 @@
 ---
-title: "The DHE Scale"
+title: "Measuring DHE"
 format: html
 editor: source
 ---
 
 ## Overview
 
-The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual's capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the [DHE model](dhe-model.qmd), capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.
+The **Digital Health Enablement Scale (DHES)** is a self-report psychometric instrument designed to measure an individual's capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the [DHE model](dhe-model.qmd), capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.
 
 ![**Figure 2** Stages of DHES development (adapted from Boateng et al., 2018).](images/scale_stages.png){width=80%}
 
@@ -33,13 +33,13 @@ The DHES was developed through a rigorous mixed-methods process grounded in esta
 | TBC 2026 | **Psychometric evaluation** of structural validity and measurement properties | 🟡 Planned | — |
 | TBC 2027 | **Validation study** examining convergent, divergent, and criterion validity | 🟡 Planned | — |
 
-: **Table 1** Project Timeline
+: **Table 2** Project Timeline
 
 ## Current Status
 
 The DHES is currently undergoing peer review. A full validation study examining the scale's structural validity, reliability, and convergent validity in a UK adult sample is ongoing.
 
-The scale is not yet publicly available. Researchers interested in the DHES --- including those wishing to collaborate or discuss potential applications --- are warmly encouraged to [get in touch](contacts.qmd).
+The scale is not yet publicly available. Researchers interested in the DHES --- including those wishing to collaborate or discuss potential applications --- are warmly encouraged to [get in touch](mailto:max.j.western@bath.co.uk).
 
 ## Availability
 

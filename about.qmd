@@ -6,30 +6,71 @@ editor: visual
 
 ![](images/dhe-profile.png){width="20%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
 
-## Digital Health Inequality
+## The Digital Health Paradox
 
-Digital health interventions --- including apps, wearables, online programmes, and telehealth services --- offer significant potential to improve health outcomes and extend the reach of healthcare. Yet the benefits of these technologies are not equally distributed. Individuals from lower socioeconomic groups are consistently less likely to engage with and benefit from digital health tools, a pattern that risks deepening existing health inequalities rather than reducing them.
+Digital health technologies --- health apps, wearable trackers, and online health services --- have 
+become a routine part of life for millions of people in the UK. Policymakers have positioned them 
+as cost-effective tools for improving population health at scale ([Rich, 2019](https://doi.org/10.1111/1467-9566.12861); [Mariano, 2020](https://doi.org/10.2471/BLT.20.252132); [Steinhubl, 2013](https://doi.org/10.1001/jama.2013.281078)), and 
+the NHS Ten Year Plan has made the shift to digital healthcare a core strategic priority ([Department of Health and Social Care, 2025](https://www.gov.uk/government/publications/10-year-health-plan-for-england)).
 
-Understanding *why* these disparities exist requires moving beyond access alone. Factors such as digital skills, health literacy, self-efficacy, trust, and social norms all shape whether an individual can meaningfully engage with digital health --- yet no validated instrument existed to measure these factors in combination.
+Yet the benefits of digital health are not equally shared. People from lower socioeconomic 
+backgrounds, older adults, and other disadvantaged groups are consistently less likely to benefit 
+from digital health interventions --- even when access to technology is not the issue 
+([Western, 2021](https://doi.org/10.1186/s12966-021-01218-4); [Zhang, 2023](https://doi.org/10.1136/bmjhci-2023-100809); [Birch, 2022](https://doi.org/10.1111/obr.13413); [Badr, 2024](https://doi.org/10.1016/j.healthpol.2024.105122)). This is sometimes called the **digital health paradox**: 
+technologies designed to improve health for everyone may, in practice, widen existing health 
+inequalities.
 
-::: {.callout-note appearance="minimal" icon=false}
-## What is Digital Health Enablement?
+## Why Do Inequalities Persist?
 
-Digital Health Enablement refers to the constellation of individual-level factors 
-that determine whether a person is positioned to meaningfully engage with and 
-benefit from digital health interventions. It encompasses the skills, knowledge, 
-motivation, and social context that shape an individual's capacity to use digital 
-health tools effectively.
-:::
+Researchers have identified three levels at which digital divides operate (van Dijk, 2020):
 
-## The Project
+- **Level 1 --- Material access**: who has devices and internet connectivity
+- **Level 2 --- Skills and usage**: who can use technology effectively
+- **Level 3 --- Outcomes**: who actually benefits, even after access and skills barriers are overcome
 
-The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, addressing this gap through the development and validation of a new psychometric instrument: the **Digital Health Enablement Scale (DHES)**.
+Most existing research and policy has focused on Levels 1 and 2. But outcome inequalities remain 
+even when people have both access and basic skills. One systematic review and meta-analysis found 
+that individuals in the lowest socioeconomic group derived no measurable benefit from digital health 
+interventions for physical activity ([Western, 2021](https://doi.org/10.1186/s12966-021-01218-4)). Understanding why requires looking beyond infrastructure 
+and towards the psychological, social, and motivational factors that shape whether someone can truly 
+benefit from digital health.
 
-The project comprises three interconnected studies:
+## Existing Frameworks and Their Limits
 
--   **A scoping review** of the mechanisms underlying socioeconomic disparities in digital health outcomes, establishing the evidence base for the DHE model
--   **A qualitative study** involving semi-structured interviews to explore enablement from the perspective of individuals with lived experience of digital health inequalities
--   **A Delphi and validation study** to establish content validity of the DHES and examine its psychometric properties in a UK adult sample
+Several theoretical traditions have contributed to our understanding of digital health engagement. 
+Cognitive and motivational theories --- including Social Cognitive Theory ([Bandura, 1991](https://doi.org/10.1016/0749-5978(91)90022-L)) and 
+Self-Determination Theory ([Ryan, 1997](https://doi.org/10.1017/S0954579497001442)) --- offer accounts of how self-efficacy, motivation, and 
+behavioural regulation shape health behaviour. Technology adoption models such as the Technology 
+Acceptance Model ([Davis, 1989](https://doi.org/10.2307/249008)) and the Unified Theory of Acceptance and Use of Technology ([Venkatesh, 2003](https://doi.org/10.2307/30036540)) 
+explain initial adoption decisions based on perceived usefulness and ease of use. Digital health 
+literacy frameworks such as eHEALS ([Norman, 2006](https://doi.org/10.2196/jmir.8.4.e27)) capture individuals' ability to find, evaluate, and 
+apply digital health information. Structural and sociocultural frameworks --- including Diffusion of 
+Innovation Theory (Rogers, 2014), Domestication Theory (Silverstone, 1993), and ecological models such as the 
+Digital Health Rainbow ([Jahnel, 2022](https://doi.org/10.1177/20552076221129093)) --- situate digital health use within broader social and material 
+contexts.
 
+No single framework, however, integrates these domains into a coherent, measurable account of why 
+some people benefit from digital health and others do not.
 
+## Introducing Digital Health Enablement
+
+**Digital Health Enablement (DHE)** is a new psychological construct developed to address this gap, 
+defined as:
+
+> An individual's readiness and capability to use, engage with, and benefit from digital 
+> technologies for the purpose of maintaining health, preventing ill health, or in the management 
+> of health conditions.
+
+We use the term *enablement* deliberately --- to signal that variation in who benefits from digital 
+health reflects not individual deficit, but differential access to the conditions that make 
+capability real ([Zheng, 2008](https://doi.org/10.1108/09593840810896780)). DHE is conceived as **dimensional** (not an all-or-nothing state), 
+**dynamic** (varying with time, context, and circumstance), and **relational** (someone may be 
+well-enabled to use a laptop but not a smartwatch).
+
+DHE is structured around a progression through three levels: **use**, **engagement**, and 
+**benefit**. Seven psychosocial sub-constructs shape an individual's capacity to progress through 
+this pathway, each modifiable through targeted support or intervention design. These proximal 
+factors are shaped in turn by more distal influences --- economic circumstances, cultural 
+environment, and personal characteristics such as values, personality, and physical health. By 
+assessing DHE, it becomes possible to identify where support is needed and to tailor digital health 
+interventions accordingly.

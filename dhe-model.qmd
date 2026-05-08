@@ -1,13 +1,24 @@
 ---
-title: "The DHE Model"
+title: "The Theory of DHE"
 format: html
 editor: visual
 ---
 
-![](images/banner.png)
+The **Digital Health Enablement (DHE)** model proposes that an individual's capacity to benefit from digital health interventions is shaped by seven inter-related domains. These domains capture the **cognitive**, **social**, and **behavioural** factors that determine whether a person can meaningfully engage with digital health tools.
 
-The Digital Health Enablement (DHE) model proposes that an individual's capacity to benefit from digital health interventions is shaped by seven inter-related domains. These domains capture the cognitive, motivational, social, and behavioural factors that determine whether a person can meaningfully engage with digital health tools.
+The model situates these domains within a broader context of structural drivers --- **economic**, **social**, **cultural**, and **personal** factors --- that shape enablement upstream. Together, greater enablement across these domains is theorised to predict improved uptake, engagement, and effectiveness of digital health interventions.
 
-The model situates these domains within a broader context of structural drivers --- economic, social, cultural, and personal factors --- that shape enablement upstream. Together, greater enablement across these domains is theorised to predict improved uptake, engagement, and effectiveness of digital health interventions.
+![**Figure 1** The Digital Health Enablement model (Mercer, et al., 2026)](images/dhe_model.png){width="100%" fig-alt="A hub and spoke diagram showing the seven domains of the DHE model surrounding a central Digital Health Enablement node, with structural drivers on the left and outcomes on the right."}
 
-![The Digital Health Enablement Model (Mercer, et al., 2026)](images/dhe_model.png){width="100%" fig-alt="A hub and spoke diagram showing the seven domains of the DHE model surrounding a central Digital Health Enablement node, with structural drivers on the left and outcomes on the right."}
+
+| Sub-Construct | Definition |
+|:-|:---|
+| Digital Skills | Perception of one's abilities to effectively engage and use digital technologies safely in areas including health information gathering, communication, content creation, and problem solving |
+| Digital Health Literacy | The extent to which one understands digital technologies and approaches digital health resources critically, including in the selection, evaluation, and application of digital technologies |
+| Digital Self-Efficacy | The extent to which individuals are confident in their ability to use digital technologies effectively |
+| Sociodigital Norms | The behaviours around digital technologies that are either typical or seen as proper in each context |
+| Digital Outcome Expectancy | An individual's beliefs about the likely physical, social, or self-evaluative outcomes of engaging with digital health technologies |
+| Digital Trust | The confidence that users have in the integrity, security, and privacy of digital technologies |
+| Digital Behavioural Regulation | The extent to which individual behaviours around digital health technologies are regulated by internal or external factors |
+
+: **Table 1** DHE Sub-Constructs Definitions

@@ -3,15 +3,12 @@ title: "References"
 editor: source
 ---
 
-This page lists the key references underpinning the theoretical and empirical 
-foundations of the DHE project.
+## Research outputs
 
-## Digital Health and Inequalities
+Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes 
+of digital interventions for weight‐related behaviors. *Obesity Reviews*, e70121. <https://doi.org/10.1111/obr.70121>
 
-Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A 
-scoping review of the mechanisms influencing socioeconomic disparities in outcomes 
-of digital interventions for weight‐related behaviors. *Obesity Reviews*, e70121. 
-<https://doi.org/10.1111/obr.70121>
+Mercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health.
 
 ## Digital Divide Theory
 
@@ -19,20 +16,43 @@ van Dijk, J. A. G. M. (2020). *The digital divide*. Polity Press.
 
 ## Scale Development and Psychometrics
 
-Mokkink, L. B., Terwee, C. B., Patrick, D. L., Alonso, J., Stratford, P. W., 
-Knol, D. L., Bouter, L. M., & de Vet, H. C. W. (2010). The COSMIN checklist for 
-assessing the methodological quality of studies on measurement properties of 
-health status measurement instruments: An international Delphi study. *Quality of 
-Life Research*, *19*(4), 539–549. <https://doi.org/10.1007/s11136-010-9606-8>
+Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). Best practices for developing and validating scales for health, social, and behavioral research: a primer. Frontiers in public health, 6, 149. <https://doi.org/10.3389/fpubh.2018.00149>
 
 ## Theoretical Foundations
 
-Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
+Badr, J., Motulsky, A., & Denis, J.-L. (2024). Digital health technologies and inequalities: A scoping review of potential impacts and policy recommendations. *Health Policy*, *146*, 105122. <https://doi.org/10.1016/j.healthpol.2024.105122>
 
-Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human 
-needs and the self-determination of behavior. *Psychological Inquiry*, *11*(4), 
-227–268. <https://doi.org/10.1207/S15327965PLI1104_01>
+Bandura, A. (1991). Social cognitive theory of self-regulation. *Organizational Behavior and Human Decision Processes*, *50*(2), 248–287. <https://doi.org/10.1016/0749-5978(91)90022-L>
 
-Norman, C. D., & Skinner, H. A. (2006). eHealth literacy: Essential skills for 
-consumer health in a networked world. *Journal of Medical Internet Research*, 
-*8*(2), e9. <https://doi.org/10.2196/jmir.8.2.e9>
+Birch, J. M., Jones, R. A., Mueller, J., McDonald, M. D., Richards, R., Kelly, M. P., Griffin, S. J., & Ahern, A. L. (2022). A systematic review of inequalities in the uptake of, adherence to, and effectiveness of behavioral weight management interventions in adults. *Obesity Reviews*, *23*(6), e13438. <https://doi.org/10.1111/obr.13413>
+
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Quarterly*, *13*(3), 319–340. <https://doi.org/10.2307/249008>
+
+Department of Health and Social Care. (2025). Fit for the future: 10 year health plan for England. UK Government. <https://www.gov.uk/government/publications/10-year-health-plan-for-england>
+
+Jahnel, T., Dassow, H.-H., Gerhardus, A., & Schüz, B. (2022). The digital rainbow: Digital determinants of health inequities. *Digital Health*, *8*, Article 20552076221129093. <https://doi.org/10.1177/20552076221129093>
+
+Mariano, B. (2020). Towards a global strategy on digital health. *Bulletin of the World Health Organization*, *98*(4), 231. <https://doi.org/10.2471/BLT.20.252132>
+
+Norman, C. D., & Skinner, H. A. (2006). eHEALS: The eHealth Literacy Scale. *Journal of Medical Internet Research*, *8*(4), e27. <https://doi.org/10.2196/jmir.8.4.e27>
+
+Rich, E., Miah, A., & Lewis, S. (2019). Is digital health care more equitable? The framing of health inequalities within England's digital health policy 2010–2017. *Sociology of Health & Illness*, *41*(S1), 31–49. <https://doi.org/10.1111/1467-9566.12861>
+
+Rogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. In D. W. Stacks & M. B. Salwen (Eds.), *An integrated approach to communication theory and research* (2nd ed., pp. 432–448). Routledge.
+
+Ryan, R. M., Kuhl, J., & Deci, E. L. (1997). Nature and autonomy: An organizational view of social and neurobiological aspects of self-regulation in behavior and development. *Development and Psychopathology*, *9*(4), 701–728. <https://doi.org/10.1017/S0954579497001442>
+
+Silverstone, R. (1993). Domesticating the revolution: Information and communication technologies and everyday life. *Aslib Proceedings*, *45*(9), 227–233.
+
+Steinhubl, S. R., Muse, E. D., & Topol, E. J. (2013). Can mobile health technologies transform health care?. *JAMA*, *310*(22), 2395–2396. <https://doi.org/10.1001/jama.2013.281078>
+
+van Dijk, J. (2020). *The Digital Divide*. Polity Press.
+
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. *MIS Quarterly*, *27*(3), 425–478. <https://doi.org/10.2307/30036540>
+
+Western, M. J., Armstrong, M. E. G., Islam, I., Morgan, K., Jones, U. F., & Kelson, M. J. (2021). The effectiveness of digital interventions for increasing physical activity in individuals of low socioeconomic status: A systematic review and meta-analysis. *International Journal of Behavioral Nutrition and Physical Activity*, *18*(1), 148. <https://doi.org/10.1186/s12966-021-01218-4>
+
+Zhang, J., Gallifant, J., Pierce, R. L., Fordham, A., Teo, J., Celi, L., & Ashrafian, H. (2023). Quantifying digital health inequality across a national healthcare system. *BMJ Health & Care Informatics*, *30*(1), e100809. <https://doi.org/10.1136/bmjhci-2023-100809>
+
+Zheng, Y., & Walsham, G. (2008). Inequality of what? Social exclusion in the e-society as capability deprivation. *Information Technology & People*, *21*(3), 222–243. <https://doi.org/10.1108/09593840810896780>
+

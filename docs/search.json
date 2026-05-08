@@ -1,85 +1,71 @@
 [
   {
-    "objectID": "about.html#digital-health-inequality",
-    "href": "about.html#digital-health-inequality",
+    "objectID": "about.html#the-digital-health-paradox",
+    "href": "about.html#the-digital-health-paradox",
     "title": "Context of the Research",
-    "section": "Digital Health Inequality",
-    "text": "Digital Health Inequality\nDigital health interventions — including apps, wearables, online programmes, and telehealth services — offer significant potential to improve health outcomes and extend the reach of healthcare. Yet the benefits of these technologies are not equally distributed. Individuals from lower socioeconomic groups are consistently less likely to engage with and benefit from digital health tools, a pattern that risks deepening existing health inequalities rather than reducing them.\nUnderstanding why these disparities exist requires moving beyond access alone. Factors such as digital skills, health literacy, self-efficacy, trust, and social norms all shape whether an individual can meaningfully engage with digital health — yet no validated instrument existed to measure these factors in combination.\n\n\n\n\n\n\nWhat is Digital Health Enablement?\n\n\n\nDigital Health Enablement refers to the constellation of individual-level factors that determine whether a person is positioned to meaningfully engage with and benefit from digital health interventions. It encompasses the skills, knowledge, motivation, and social context that shape an individual’s capacity to use digital health tools effectively."
+    "section": "The Digital Health Paradox",
+    "text": "The Digital Health Paradox\nDigital health technologies — health apps, wearable trackers, and online health services — have become a routine part of life for millions of people in the UK. Policymakers have positioned them as cost-effective tools for improving population health at scale (Rich, 2019; Mariano, 2020; Steinhubl, 2013), and the NHS Ten Year Plan has made the shift to digital healthcare a core strategic priority (Department of Health and Social Care, 2025).\nYet the benefits of digital health are not equally shared. People from lower socioeconomic backgrounds, older adults, and other disadvantaged groups are consistently less likely to benefit from digital health interventions — even when access to technology is not the issue (Western, 2021; Zhang, 2023; Birch, 2022; Badr, 2024). This is sometimes called the digital health paradox: technologies designed to improve health for everyone may, in practice, widen existing health inequalities."
   },
   {
-    "objectID": "about.html#the-project",
-    "href": "about.html#the-project",
+    "objectID": "about.html#why-do-inequalities-persist",
+    "href": "about.html#why-do-inequalities-persist",
     "title": "Context of the Research",
-    "section": "The Project",
-    "text": "The Project\nThe Digital Health Enablement (DHE) project is a programme of doctoral research based at the University of Bath, addressing this gap through the development and validation of a new psychometric instrument: the Digital Health Enablement Scale (DHES).\nThe project comprises three interconnected studies:\n\nA scoping review of the mechanisms underlying socioeconomic disparities in digital health outcomes, establishing the evidence base for the DHE model\nA qualitative study involving semi-structured interviews to explore enablement from the perspective of individuals with lived experience of digital health inequalities\nA Delphi and validation study to establish content validity of the DHES and examine its psychometric properties in a UK adult sample"
+    "section": "Why Do Inequalities Persist?",
+    "text": "Why Do Inequalities Persist?\nResearchers have identified three levels at which digital divides operate (van Dijk, 2020):\n\nLevel 1 — Material access: who has devices and internet connectivity\nLevel 2 — Skills and usage: who can use technology effectively\nLevel 3 — Outcomes: who actually benefits, even after access and skills barriers are overcome\n\nMost existing research and policy has focused on Levels 1 and 2. But outcome inequalities remain even when people have both access and basic skills. One systematic review and meta-analysis found that individuals in the lowest socioeconomic group derived no measurable benefit from digital health interventions for physical activity (Western, 2021). Understanding why requires looking beyond infrastructure and towards the psychological, social, and motivational factors that shape whether someone can truly benefit from digital health."
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contacts",
-    "section": "",
-    "text": "We welcome enquiries from researchers, clinicians, and other professionals interested in the DHE project, the DHES scale, or potential collaboration.\nLee Mercer Doctoral Researcher Centre for Motivation and Health Behaviour Change Department of Health, University of Bath\nDr Max Western (Corresponding author) Centre for Motivation and Health Behaviour Change University of Bath"
+    "objectID": "about.html#existing-frameworks-and-their-limits",
+    "href": "about.html#existing-frameworks-and-their-limits",
+    "title": "Context of the Research",
+    "section": "Existing Frameworks and Their Limits",
+    "text": "Existing Frameworks and Their Limits\nSeveral theoretical traditions have contributed to our understanding of digital health engagement. Cognitive and motivational theories — including Social Cognitive Theory (Bandura, 1991) and Self-Determination Theory (Ryan, 1997) — offer accounts of how self-efficacy, motivation, and behavioural regulation shape health behaviour. Technology adoption models such as the Technology Acceptance Model (Davis, 1989) and the Unified Theory of Acceptance and Use of Technology (Venkatesh, 2003) explain initial adoption decisions based on perceived usefulness and ease of use. Digital health literacy frameworks such as eHEALS (Norman, 2006) capture individuals’ ability to find, evaluate, and apply digital health information. Structural and sociocultural frameworks — including Diffusion of Innovation Theory (Rogers, 2014), Domestication Theory (Silverstone, 1993), and ecological models such as the Digital Health Rainbow (Jahnel, 2022) — situate digital health use within broader social and material contexts.\nNo single framework, however, integrates these domains into a coherent, measurable account of why some people benefit from digital health and others do not."
   },
   {
-    "objectID": "contacts.html#get-in-touch",
-    "href": "contacts.html#get-in-touch",
-    "title": "Contacts",
-    "section": "",
-    "text": "We welcome enquiries from researchers, clinicians, and other professionals interested in the DHE project, the DHES scale, or potential collaboration.\nLee Mercer Doctoral Researcher Centre for Motivation and Health Behaviour Change Department of Health, University of Bath\nDr Max Western (Corresponding author) Centre for Motivation and Health Behaviour Change University of Bath"
-  },
-  {
-    "objectID": "contacts.html#collaborations-and-scale-enquiries",
-    "href": "contacts.html#collaborations-and-scale-enquiries",
-    "title": "Contacts",
-    "section": "Collaborations and Scale Enquiries",
-    "text": "Collaborations and Scale Enquiries\nIf you are interested in using the DHES in your research, discussing collaboration, or would like to be notified when the scale becomes publicly available, please get in touch via email."
-  },
-  {
-    "objectID": "contacts.html#stay-updated",
-    "href": "contacts.html#stay-updated",
-    "title": "Contacts",
-    "section": "Stay Updated",
-    "text": "Stay Updated\nThe best way to stay informed about the progress of the DHE project is to bookmark this site, which will be updated as new outputs become available."
+    "objectID": "about.html#introducing-digital-health-enablement",
+    "href": "about.html#introducing-digital-health-enablement",
+    "title": "Context of the Research",
+    "section": "Introducing Digital Health Enablement",
+    "text": "Introducing Digital Health Enablement\nDigital Health Enablement (DHE) is a new psychological construct developed to address this gap, defined as:\n\nAn individual’s readiness and capability to use, engage with, and benefit from digital technologies for the purpose of maintaining health, preventing ill health, or in the management of health conditions.\n\nWe use the term enablement deliberately — to signal that variation in who benefits from digital health reflects not individual deficit, but differential access to the conditions that make capability real (Zheng, 2008). DHE is conceived as dimensional (not an all-or-nothing state), dynamic (varying with time, context, and circumstance), and relational (someone may be well-enabled to use a laptop but not a smartwatch).\nDHE is structured around a progression through three levels: use, engagement, and benefit. Seven psychosocial sub-constructs shape an individual’s capacity to progress through this pathway, each modifiable through targeted support or intervention design. These proximal factors are shaped in turn by more distal influences — economic circumstances, cultural environment, and personal characteristics such as values, personality, and physical health. By assessing DHE, it becomes possible to identify where support is needed and to tailor digital health interventions accordingly."
   },
   {
     "objectID": "dhe-model.html",
     "href": "dhe-model.html",
-    "title": "The DHE Model",
+    "title": "The Theory of DHE",
     "section": "",
-    "text": "The Digital Health Enablement (DHE) model proposes that an individual’s capacity to benefit from digital health interventions is shaped by seven inter-related domains. These domains capture the cognitive, motivational, social, and behavioural factors that determine whether a person can meaningfully engage with digital health tools.\nThe model situates these domains within a broader context of structural drivers — economic, social, cultural, and personal factors — that shape enablement upstream. Together, greater enablement across these domains is theorised to predict improved uptake, engagement, and effectiveness of digital health interventions.\n\n\n\nThe Digital Health Enablement Model (Mercer, et al., 2026)"
+    "text": "The Digital Health Enablement (DHE) model proposes that an individual’s capacity to benefit from digital health interventions is shaped by seven inter-related domains. These domains capture the cognitive, social, and behavioural factors that determine whether a person can meaningfully engage with digital health tools.\nThe model situates these domains within a broader context of structural drivers — economic, social, cultural, and personal factors — that shape enablement upstream. Together, greater enablement across these domains is theorised to predict improved uptake, engagement, and effectiveness of digital health interventions.\n\n\n\nFigure 1 The Digital Health Enablement model (Mercer, et al., 2026)\n\n\n\nTable 1 DHE Sub-Constructs Definitions\n\n\n\n\n\n\nSub-Construct\nDefinition\n\n\n\n\nDigital Skills\nPerception of one’s abilities to effectively engage and use digital technologies safely in areas including health information gathering, communication, content creation, and problem solving\n\n\nDigital Health Literacy\nThe extent to which one understands digital technologies and approaches digital health resources critically, including in the selection, evaluation, and application of digital technologies\n\n\nDigital Self-Efficacy\nThe extent to which individuals are confident in their ability to use digital technologies effectively\n\n\nSociodigital Norms\nThe behaviours around digital technologies that are either typical or seen as proper in each context\n\n\nDigital Outcome Expectancy\nAn individual’s beliefs about the likely physical, social, or self-evaluative outcomes of engaging with digital health technologies\n\n\nDigital Trust\nThe confidence that users have in the integrity, security, and privacy of digital technologies\n\n\nDigital Behavioural Regulation\nThe extent to which individual behaviours around digital health technologies are regulated by internal or external factors"
   },
   {
     "objectID": "dhe-scale.html",
     "href": "dhe-scale.html",
-    "title": "The DHE Scale",
+    "title": "Measuring DHE",
     "section": "",
     "text": "The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual’s capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the DHE model, capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.\n\n\n\nFigure 2 Stages of DHES development (adapted from Boateng et al., 2018).\n\n\nThe scale is designed for use with adult populations in research and clinical contexts, with particular relevance to settings where digital health inequalities are a concern — including primary care, public health, and weight-related behaviour change programmes."
   },
   {
     "objectID": "dhe-scale.html#overview",
     "href": "dhe-scale.html#overview",
-    "title": "The DHE Scale",
+    "title": "Measuring DHE",
     "section": "",
     "text": "The Digital Health Enablement Scale (DHES) is a self-report psychometric instrument designed to measure an individual’s capacity to engage with and benefit from digital health interventions. It operationalises the seven domains of the DHE model, capturing the cognitive, motivational, social, and behavioural factors that underpin meaningful digital health engagement.\n\n\n\nFigure 2 Stages of DHES development (adapted from Boateng et al., 2018).\n\n\nThe scale is designed for use with adult populations in research and clinical contexts, with particular relevance to settings where digital health inequalities are a concern — including primary care, public health, and weight-related behaviour change programmes."
   },
   {
     "objectID": "dhe-scale.html#development",
     "href": "dhe-scale.html#development",
-    "title": "The DHE Scale",
+    "title": "Measuring DHE",
     "section": "Development",
-    "text": "Development\nThe DHES was developed through a rigorous mixed-methods process grounded in established frameworks for scale development. Development involved:\n\n\n\n\n\n\nCurrent stage: Full scale testing with UK adult sample\n\n\n\n\nTable 1 Project Timeline\n\n\n\n\n\n\n\n\nDate\nDescription\nStatus\nEthics Reference\n\n\n\n\nMay 2024\nA Scoping review of mechanisms explaining socioeconomic disparities in digital health outcomes\n🟢 Complete\nN/A\n\n\nJun 2024\nA Literature review of existing digital health scales to identify gaps and inform item development\n🟢 Complete\n1447\n\n\nSep 2024\nProto-model development from existing theory\n🟢 Complete\n1447\n\n\nNov 2024\nSemi-structured interviews with users on digital health experiences\n🟢 Complete\n1447\n\n\nJan 2025\nDelphi study with subject matter experts to establish content validity\n🟢 Complete\n1447\n\n\nMar 2025\nCognitive interviews with users on the draft scale\n🟢 Complete\n6276\n\n\nApr 2025\nPilot study of the draft DHES\n🟢 Complete\n6276\n\n\nMay 2025\n&gt; Full scale testing with UK adult sample &lt;\n🔵 Underway\n6276\n\n\nTBC 2026\nPsychometric evaluation of structural validity and measurement properties\n🟡 Planned\n—\n\n\nTBC 2027\nValidation study examining convergent, divergent, and criterion validity\n🟡 Planned\n—"
+    "text": "Development\nThe DHES was developed through a rigorous mixed-methods process grounded in established frameworks for scale development. Development involved:\n\n\n\n\n\n\nCurrent stage: Full scale testing with UK adult sample\n\n\n\n\nTable 2 Project Timeline\n\n\n\n\n\n\n\n\nDate\nDescription\nStatus\nEthics Reference\n\n\n\n\nMay 2024\nA Scoping review of mechanisms explaining socioeconomic disparities in digital health outcomes\n🟢 Complete\nN/A\n\n\nJun 2024\nA Literature review of existing digital health scales to identify gaps and inform item development\n🟢 Complete\n1447\n\n\nSep 2024\nProto-model development from existing theory\n🟢 Complete\n1447\n\n\nNov 2024\nSemi-structured interviews with users on digital health experiences\n🟢 Complete\n1447\n\n\nJan 2025\nDelphi study with subject matter experts to establish content validity\n🟢 Complete\n1447\n\n\nMar 2025\nCognitive interviews with users on the draft scale\n🟢 Complete\n6276\n\n\nApr 2025\nPilot study of the draft DHES\n🟢 Complete\n6276\n\n\nMay 2025\n&gt; Full scale testing with UK adult sample &lt;\n🔵 Underway\n6276\n\n\nTBC 2026\nPsychometric evaluation of structural validity and measurement properties\n🟡 Planned\n—\n\n\nTBC 2027\nValidation study examining convergent, divergent, and criterion validity\n🟡 Planned\n—"
   },
   {
     "objectID": "dhe-scale.html#current-status",
     "href": "dhe-scale.html#current-status",
-    "title": "The DHE Scale",
+    "title": "Measuring DHE",
     "section": "Current Status",
     "text": "Current Status\nThe DHES is currently undergoing peer review. A full validation study examining the scale’s structural validity, reliability, and convergent validity in a UK adult sample is ongoing.\nThe scale is not yet publicly available. Researchers interested in the DHES — including those wishing to collaborate or discuss potential applications — are warmly encouraged to get in touch."
   },
   {
     "objectID": "dhe-scale.html#availability",
     "href": "dhe-scale.html#availability",
-    "title": "The DHE Scale",
+    "title": "Measuring DHE",
     "section": "Availability",
     "text": "Availability\nFull details of the scale, including items, scoring instructions, and psychometric properties, will be made available on this page following publication."
   },
@@ -88,35 +74,21 @@
     "href": "index.html",
     "title": "Digital Health Enablement",
     "section": "",
-    "text": "The Digital Health Divide\nDigital health technologies such as health apps and wearables offer enormous potential to improve health and extend the reach of healthcare. Yet their benefits are unequally distributed.\nFactors including digital skills, health literacy, self-efficacy, socio-digital norms and trust shape whether individuals can meaningfully engage with, and benefit from, digital health — and these factors cluster in ways that deepen existing health inequalities.\nFind out more about digital health inequality here.\n\n\nThe DHE Project\n\n\n\n\n\n\nWhat is Digital Health Enablement (DHE)?\n\n\n\nDHE is the constellation of individual-level factors that determine whether a person is positioned to meaningfully engage with and benefit from digital health interventions. It encompasses the skills, knowledge, motivation, and social context that shape an individual’s capacity to use digital health tools effectively.\n\n\nThe Digital Health Enablement (DHE) project is a programme of doctoral research based at the University of Bath, developing and validating a new psychometric instrument — the Digital Health Enablement Scale (DHES) — designed to measure individual-level enablement for digital health engagement.\nThe DHE project is based in the Centre for Motivation and Health Behaviour Change within the Department of Health at the University of Bath. The research is supervised by Dr Max Western, Dr Roberta Bernardi (University of Bristol), and Professor Martyn Standage.\n\n\nExplore the project\n\nThe Project\nTheory\nMeasurement\nPublications\nThe Team"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Outputs",
-    "section": "",
-    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\n\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications & Outputs",
-    "section": "",
-    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\n\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
+    "text": "The Digital Health Divide\nDigital health technologies such as health apps and wearables offer enormous potential to improve health and extend the reach of healthcare. Yet their benefits are unequally distributed.\nFactors including digital skills, health literacy, self-efficacy, socio-digital norms and trust shape whether individuals can meaningfully engage with, and benefit from, digital health — and these factors cluster in ways that deepen existing health inequalities.\nFind out more about digital health inequality here.\n\n\nThe DHE Project\n\n\n\n\n\n\nWhat is Digital Health Enablement (DHE)?\n\n\n\nDHE is the constellation of individual-level factors that determine whether a person is positioned to meaningfully engage with and benefit from digital health interventions. It encompasses the skills, knowledge, motivation, and social context that shape an individual’s capacity to use digital health tools effectively.\n\n\nThe Digital Health Enablement (DHE) project is a programme of doctoral research based at the University of Bath, developing and validating a new psychometric instrument — the Digital Health Enablement Scale (DHES) — designed to measure individual-level enablement for digital health engagement.\nThe DHE project is based in the Centre for Motivation and Health Behaviour Change within the Department of Health at the University of Bath. The research is supervised by Dr Max Western, Dr Roberta Bernardi (University of Bristol), and Professor Martyn Standage.\n\n\nExplore the project\n\nThe Project\nTheory\nMeasurement\nReferences"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "This page lists the key references underpinning the theoretical and empirical foundations of the DHE project."
+    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
   },
   {
-    "objectID": "references.html#digital-health-and-inequalities",
-    "href": "references.html#digital-health-and-inequalities",
+    "objectID": "references.html#research-outputs",
+    "href": "references.html#research-outputs",
     "title": "References",
-    "section": "Digital Health and Inequalities",
-    "text": "Digital Health and Inequalities\nMercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121"
+    "section": "",
+    "text": "Mercer, L. C., Al‐Masri, M., Rocha, D., König, L. M., & Western, M. (2026). A scoping review of the mechanisms influencing socioeconomic disparities in outcomes of digital interventions for weight‐related behaviors. Obesity Reviews, e70121. https://doi.org/10.1111/obr.70121\nMercer, L. C., Bernardi, R., Standage, M., & Western, M. (under review). Development and content validation of the Digital Health Enablement Scale (DHES): A mixed-methods study. PLOS Digital Health."
   },
   {
     "objectID": "references.html#digital-divide-theory",
@@ -130,13 +102,13 @@
     "href": "references.html#scale-development-and-psychometrics",
     "title": "References",
     "section": "Scale Development and Psychometrics",
-    "text": "Scale Development and Psychometrics\nMokkink, L. B., Terwee, C. B., Patrick, D. L., Alonso, J., Stratford, P. W., Knol, D. L., Bouter, L. M., & de Vet, H. C. W. (2010). The COSMIN checklist for assessing the methodological quality of studies on measurement properties of health status measurement instruments: An international Delphi study. Quality of Life Research, 19(4), 539–549. https://doi.org/10.1007/s11136-010-9606-8"
+    "text": "Scale Development and Psychometrics\nBoateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). Best practices for developing and validating scales for health, social, and behavioral research: a primer. Frontiers in public health, 6, 149. https://doi.org/10.3389/fpubh.2018.00149"
   },
   {
     "objectID": "references.html#theoretical-foundations",
     "href": "references.html#theoretical-foundations",
     "title": "References",
     "section": "Theoretical Foundations",
-    "text": "Theoretical Foundations\nBandura, A. (1997). Self-efficacy: The exercise of control. W. H. Freeman.\nDeci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01\nNorman, C. D., & Skinner, H. A. (2006). eHealth literacy: Essential skills for consumer health in a networked world. Journal of Medical Internet Research, 8(2), e9. https://doi.org/10.2196/jmir.8.2.e9"
+    "text": "Theoretical Foundations\nBadr, J., Motulsky, A., & Denis, J.-L. (2024). Digital health technologies and inequalities: A scoping review of potential impacts and policy recommendations. Health Policy, 146, 105122. https://doi.org/10.1016/j.healthpol.2024.105122\nBandura, A. (1991). Social cognitive theory of self-regulation. Organizational Behavior and Human Decision Processes, 50(2), 248–287. https://doi.org/10.1016/0749-5978(91)90022-L\nBirch, J. M., Jones, R. A., Mueller, J., McDonald, M. D., Richards, R., Kelly, M. P., Griffin, S. J., & Ahern, A. L. (2022). A systematic review of inequalities in the uptake of, adherence to, and effectiveness of behavioral weight management interventions in adults. Obesity Reviews, 23(6), e13438. https://doi.org/10.1111/obr.13413\nDavis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–340. https://doi.org/10.2307/249008\nDepartment of Health and Social Care. (2025). Fit for the future: 10 year health plan for England. UK Government. https://www.gov.uk/government/publications/10-year-health-plan-for-england\nJahnel, T., Dassow, H.-H., Gerhardus, A., & Schüz, B. (2022). The digital rainbow: Digital determinants of health inequities. Digital Health, 8, Article 20552076221129093. https://doi.org/10.1177/20552076221129093\nMariano, B. (2020). Towards a global strategy on digital health. Bulletin of the World Health Organization, 98(4), 231. https://doi.org/10.2471/BLT.20.252132\nNorman, C. D., & Skinner, H. A. (2006). eHEALS: The eHealth Literacy Scale. Journal of Medical Internet Research, 8(4), e27. https://doi.org/10.2196/jmir.8.4.e27\nRich, E., Miah, A., & Lewis, S. (2019). Is digital health care more equitable? The framing of health inequalities within England’s digital health policy 2010–2017. Sociology of Health & Illness, 41(S1), 31–49. https://doi.org/10.1111/1467-9566.12861\nRogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. In D. W. Stacks & M. B. Salwen (Eds.), An integrated approach to communication theory and research (2nd ed., pp. 432–448). Routledge.\nRyan, R. M., Kuhl, J., & Deci, E. L. (1997). Nature and autonomy: An organizational view of social and neurobiological aspects of self-regulation in behavior and development. Development and Psychopathology, 9(4), 701–728. https://doi.org/10.1017/S0954579497001442\nSilverstone, R. (1993). Domesticating the revolution: Information and communication technologies and everyday life. Aslib Proceedings, 45(9), 227–233.\nSteinhubl, S. R., Muse, E. D., & Topol, E. J. (2013). Can mobile health technologies transform health care?. JAMA, 310(22), 2395–2396. https://doi.org/10.1001/jama.2013.281078\nvan Dijk, J. (2020). The Digital Divide. Polity Press.\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478. https://doi.org/10.2307/30036540\nWestern, M. J., Armstrong, M. E. G., Islam, I., Morgan, K., Jones, U. F., & Kelson, M. J. (2021). The effectiveness of digital interventions for increasing physical activity in individuals of low socioeconomic status: A systematic review and meta-analysis. International Journal of Behavioral Nutrition and Physical Activity, 18(1), 148. https://doi.org/10.1186/s12966-021-01218-4\nZhang, J., Gallifant, J., Pierce, R. L., Fordham, A., Teo, J., Celi, L., & Ashrafian, H. (2023). Quantifying digital health inequality across a national healthcare system. BMJ Health & Care Informatics, 30(1), e100809. https://doi.org/10.1136/bmjhci-2023-100809\nZheng, Y., & Walsham, G. (2008). Inequality of what? Social exclusion in the e-society as capability deprivation. Information Technology & People, 21(3), 222–243. https://doi.org/10.1108/09593840810896780"
   }
 ]

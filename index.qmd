@@ -36,8 +36,7 @@ The DHE project is based in the [**Centre for Motivation and Health Behaviour Ch
 -   [The Project](about.qmd)
 -   [Theory](dhe-model.qmd)
 -   [Measurement](dhe-scale.qmd)
--   [Publications](publications.qmd)
--   [The Team](contacts.qmd)
+-   [References](references.qmd)
 
 ---
 
