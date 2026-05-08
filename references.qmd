@@ -42,7 +42,7 @@ Rogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. I
 
 Ryan, R. M., Kuhl, J., & Deci, E. L. (1997). Nature and autonomy: An organizational view of social and neurobiological aspects of self-regulation in behavior and development. *Development and Psychopathology*, *9*(4), 701–728. <https://doi.org/10.1017/S0954579497001442>
 
-Silverstone, R. (1993). Domesticating the revolution: Information and communication technologies and everyday life. *Aslib Proceedings*, *45*(9), 227–233.
+<a id="ref-silverstone1993"></a>Silverstone, R. (1993). Domesticating the revolution: Information and communication technologies and everyday life. *Aslib Proceedings*, *45*(9), 227–233.
 
 Steinhubl, S. R., Muse, E. D., & Topol, E. J. (2013). Can mobile health technologies transform health care?. *JAMA*, *310*(22), 2395–2396. <https://doi.org/10.1001/jama.2013.281078>
 
