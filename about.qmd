@@ -74,3 +74,9 @@ factors are shaped in turn by more distal influences --- economic circumstances,
 environment, and personal characteristics such as values, personality, and physical health. By 
 assessing DHE, it becomes possible to identify where support is needed and to tailor digital health 
 interventions accordingly.
+
+---
+
+::: {style="text-align: right;"}
+![](images/bath-logo.png){width=180px}
+:::

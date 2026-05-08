@@ -22,3 +22,9 @@ The model situates these domains within a broader context of structural drivers 
 | Digital Behavioural Regulation | The extent to which individual behaviours around digital health technologies are regulated by internal or external factors |
 
 : **Table 1** DHE Sub-Constructs Definitions
+
+---
+
+::: {style="text-align: right;"}
+![](images/bath-logo.png){width=180px}
+:::

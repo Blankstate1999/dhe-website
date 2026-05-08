@@ -44,3 +44,9 @@ The scale is not yet publicly available. Researchers interested in the DHES --- 
 ## Availability
 
 Full details of the scale, including items, scoring instructions, and psychometric properties, will be made available on this page following publication.
+
+---
+
+::: {style="text-align: right;"}
+![](images/bath-logo.png){width=180px}
+:::
