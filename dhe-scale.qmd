@@ -1,6 +1,12 @@
 ---
 title: "Measuring DHE"
-format: html
+format: 
+  html:
+    include-before-body:
+      text: |
+        <div style="text-align: right; margin-bottom: 1em;">
+          <img src="images/bath-logo.png" width="180px">
+        </div>
 editor: source
 ---
 
@@ -31,9 +37,9 @@ The DHES was developed through a rigorous mixed-methods process grounded in esta
 | Nov 2024 | **Delphi study** with subject matter experts to establish content validity | 🟢 Complete | 1447 |
 | Feb 2025 | **Cognitive interviews** with users on the draft scale | 🟢 Complete | 6276 |
 | Jun 2025 | **Pilot study** of the draft DHES | 🟢 Complete | 6276 |
-| **May 2026** | **> Full scale testing with UK adult sample <** |🔵 **Underway**| 6276 |
+| **May 2026** | [**> Full scale testing with UK adult sample <**](https://uniofbath.questionpro.eu/t/AB3u0crZB3wUQM) |🔵 **Underway**| 6276 |
 | TBC 2026 | **Psychometric evaluation** of structural validity and measurement properties | 🟡 Planned | — |
-| TBC 2027 | **Validation study** examining convergent, divergent, and criterion validity | 🟡 Planned | — |
+| TBC 2027 | **Validation study** testing the predictive validity of the scale | 🟡 Planned | — |
 
 : **Table 2** Project Timeline
 
@@ -50,5 +56,5 @@ Full details of the scale, including items, scoring instructions, and psychometr
 ---
 
 ::: {style="text-align: right;"}
-![](images/bath-logo.png){width=180px}
+© 2026 The University of Bath
 :::

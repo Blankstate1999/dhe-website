@@ -1,5 +1,12 @@
 ---
 title: "References"
+format: 
+  html:
+    include-before-body:
+      text: |
+        <div style="text-align: right; margin-bottom: 1em;">
+          <img src="images/bath-logo.png" width="180px">
+        </div>
 editor: source
 ---
 
@@ -56,3 +63,8 @@ Zhang, J., Gallifant, J., Pierce, R. L., Fordham, A., Teo, J., Celi, L., & Ashra
 
 Zheng, Y., & Walsham, G. (2008). Inequality of what? Social exclusion in the e-society as capability deprivation. *Information Technology & People*, *21*(3), 222–243. <https://doi.org/10.1108/09593840810896000>
 
+---
+
+::: {style="text-align: right;"}
+© 2026 The University of Bath
+:::

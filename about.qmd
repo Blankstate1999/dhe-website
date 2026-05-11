@@ -1,7 +1,13 @@
 ---
 title: "Context of the Research"
-format: html
-editor: visual
+format: 
+  html:
+    include-before-body:
+      text: |
+        <div style="text-align: right; margin-bottom: 1em;">
+          <img src="images/bath-logo.png" width="180px">
+        </div>
+editor: source
 ---
 
 ![](images/dhe-profile.png){width="20%" style="border-radius: 8px; margin-bottom: 1.5rem;"}
@@ -36,10 +42,10 @@ No single framework, however, integrates these domains into a coherent, measurab
 
 We use the term *enablement* deliberately --- to signal that variation in who benefits from digital health reflects not individual deficit, but differential access to the conditions that make capability real ([Zheng, 2008](https://www.emerald.com/itp/article/21/3/222/431235)). DHE is conceived as **dimensional** (not an all-or-nothing state), **dynamic** (varying with time, context, and circumstance), and **relational** (someone may be well-enabled to use a laptop but not a smartwatch).
 
-DHE is structured around a progression through three levels: **use**, **engagement**, and **benefit**. Seven psychosocial sub-constructs shape an individual's capacity to progress through this pathway, each modifiable through targeted support or intervention design. These proximal factors are shaped in turn by more distal influences --- economic circumstances, cultural environment, and personal characteristics such as values, personality, and physical health. By assessing DHE, it becomes possible to identify where support is needed and to tailor digital health interventions accordingly.
+DHE is structured around a progression through three levels: **use** → **engagement** → **benefit**. Seven psychosocial sub-constructs shape an individual's capacity to progress through this pathway, each modifiable through targeted support or intervention design. These proximal factors are shaped in turn by more distal influences --- **economic circumstances**, **cultural environment**, and **personal characteristics** such as values, personality, and physical health. By assessing DHE, it becomes possible to identify where support is needed and to tailor digital health interventions accordingly.
 
 ------------------------------------------------------------------------
 
 ::: {style="text-align: right;"}
-![](images/bath-logo.png){width="180px"}
+© 2026 The University of Bath
 :::

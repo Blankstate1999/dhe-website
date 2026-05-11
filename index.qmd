@@ -1,7 +1,13 @@
 ---
 title: "Digital Health Enablement"
 subtitle: "Understanding who benefits most from digital health - and why"
-format: html
+format: 
+  html:
+    include-before-body:
+      text: |
+        <div style="text-align: right; margin-bottom: 1em;">
+          <img src="images/bath-logo.png" width="180px">
+        </div>
 editor: source
 ---
 
@@ -56,5 +62,5 @@ The research is lead by [**Lee C. Mercer**](https://researchportal.bath.ac.uk/en
 ---
 
 ::: {style="text-align: right;"}
-![](images/bath-logo.png){width=180px}
+© 2026 The University of Bath
 :::
