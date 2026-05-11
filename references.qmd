@@ -38,7 +38,7 @@ Norman, C. D., & Skinner, H. A. (2006). eHEALS: The eHealth Literacy Scale. *Jou
 
 Rich, E., Miah, A., & Lewis, S. (2019). Is digital health care more equitable? The framing of health inequalities within England's digital health policy 2010–2017. *Sociology of Health & Illness*, *41*(S1), 31–49. <https://doi.org/10.1111/1467-9566.12980>
 
-Rogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. In D. W. Stacks & M. B. Salwen (Eds.), *An integrated approach to communication theory and research* (2nd ed., pp. 432–448). Routledge.
+<a id="ref-rogers2014"></a>Rogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. In D. W. Stacks & M. B. Salwen (Eds.), *An integrated approach to communication theory and research* (2nd ed., pp. 432–448). Routledge.
 
 Ryan, R. M., Kuhl, J., & Deci, E. L. (1997). Nature and autonomy: An organizational view of social and neurobiological aspects of self-regulation in behavior and development. *Development and Psychopathology*, *9*(4), 701–728. <https://doi.org/10.1017/S0954579497001442>
 

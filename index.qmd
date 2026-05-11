@@ -25,7 +25,26 @@ An individual’s readiness and capability to use, engage with, and benefit from
 
 The Digital Health Enablement (DHE) project is a programme of doctoral research based at the **University of Bath**, developing and validating a new psychometric instrument --- the **Digital Health Enablement Scale (DHES)** --- designed to measure individual-level enablement for digital health engagement.
 
-The DHE project is based in the [**Centre for Motivation and Health Behaviour Change**](https://www.bath.ac.uk/research-centres/centre-for-motivation-and-behaviour-change/) within the Department of Health at the University of Bath. The research is supervised by **Dr Max Western**, **Dr Roberta Bernardi** (University of Bristol), and **Professor Martyn Standage**.
+### The Team
+
+The DHE project is based in the [**Centre for Motivation and Behaviour Change**](https://www.bath.ac.uk/research-centres/centre-for-motivation-and-behaviour-change/) within the **Department for Health** at the **University of Bath**. 
+
+:::: {style="display: flex; align-items: flex-start; gap: 1.5rem;"}
+
+::: {}
+![](images/me2019.jpg){width="200px" style="border-radius: 8px;"}
+:::
+
+::: {}
+The research is lead by [**Lee Mercer**](https://researchportal.bath.ac.uk/en/persons/lee-mercer/), PhD Researcher at the University of Bath (pictured).
+
+**Supervisory team**  
+•   [**Dr Max Western**](https://researchportal.bath.ac.uk/en/persons/max-western/) (University of Bath)  
+•   [**Dr Roberta Bernardi**](https://research-information.bris.ac.uk/en/persons/roberta-bernardi/) (University of Bristol)  
+•   [**Professor Martyn Standage**](https://researchportal.bath.ac.uk/en/persons/martyn-standage/) (University of Bath)
+:::
+
+::::
 
 ### Explore the project
 
