@@ -20,6 +20,8 @@ The DHES was developed through a rigorous mixed-methods process grounded in esta
 **Current stage:** Full scale testing with UK adult sample
 :::
 
+[Take the survey here!](https://uniofbath.questionpro.eu/t/AB3u0crZB3wUQM)
+
 | Date | Description | Status | Ethics Reference |
 |-------|-----------------------------|--------|------|
 | Mar 2023 | A **Scoping review** of mechanisms explaining socioeconomic disparities in digital health outcomes | 🟢 Complete | N/A |
